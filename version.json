@@ -6,16 +6,16 @@
     "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.82.apk",
     "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.82/app-1.12.82.apk"
   ],
-  "md5": "46b968f5cfa61c4348c834706db537b3",
+  "md5": "8dd4d3a0814f333bf88aaf52fd762813",
   "size": 14128829,
-  "changelog": "CI 发版链路验证：由 GitHub Actions 构建并发布（同版本幂等）",
+  "changelog": "验证发版通知：CI 跑完会自动告诉你一声（同版本幂等，无实际变更）",
   "force": false,
   "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.82.apk",
   "fullMirrors": [
     "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.82.apk",
     "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.82/app-full-1.12.82.apk"
   ],
-  "fullMd5": "de902769784f86b79170cd7e6fefc64d",
+  "fullMd5": "725c7280550ea5f54831f47cd8e82a71",
   "fullSize": 14130125,
   "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.82.apk（需先有该文件）"
 }
