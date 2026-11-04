@@ -8,7 +8,7 @@
   ],
   "md5": "2dc819330e461161263bdd4305b2d3fd",
   "size": 14128833,
-  "changelog": "升级清单的 GitHub 备份改指新发布仓（CloudBase 仍是主源）；仓库更名 phoneagent 后的配套版本",
+  "changelog": "1.12.82 重跑验证：改用仓库内脚本（同版本幂等）",
   "force": false,
   "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.82.apk",
   "fullMirrors": [
