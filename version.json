@@ -1,0 +1,21 @@
+{
+  "versionCode": 199,
+  "versionName": "1.12.81",
+  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.81.apk",
+  "mirrors": [
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.81.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.81/app-1.12.81.apk"
+  ],
+  "md5": "6e87ac90fe80f77ec2c98788f312e023",
+  "size": 14128829,
+  "changelog": "自动升级前先主动拉起 agent：无线调试端口变了会 mDNS 重新发现并重试，拉起成功就继续走静默安装，避免退化到 HyperOS 的系统安装器",
+  "force": false,
+  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.81.apk",
+  "fullMirrors": [
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.81.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.81/app-full-1.12.81.apk"
+  ],
+  "fullMd5": "135008b6b7c013bcd5e1b67a0fed882c",
+  "fullSize": 14130137,
+  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.81.apk（需先有该文件）"
+}
