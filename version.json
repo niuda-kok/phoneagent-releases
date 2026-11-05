@@ -1,21 +1,21 @@
 {
-  "versionCode": 201,
-  "versionName": "1.12.83",
-  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.83.apk",
+  "versionCode": 202,
+  "versionName": "1.12.84",
+  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.84.apk",
   "mirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.83.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.83/app-1.12.83.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.84.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.84/app-1.12.84.apk"
   ],
-  "md5": "15f97e1330c6c818de2fcae8c2371288",
-  "size": 14128905,
-  "changelog": "fix(wake): /api/wake 亮屏后保持常亮 30 秒——鸿蒙锁屏 10 秒强制熄屏覆盖，3 秒锁闪一下就灭（1.12.70 只修了中继通道）",
+  "md5": "d2b33478145af9f88da3f73be6bbe216",
+  "size": 14408100,
+  "changelog": "自动补开5555：自举/配对成功后异步 adb tcpip 5555（5分钟节流）；新增 POST /api/adb/tcpip 手动端点；修死认旧端口导致的连接超时（候选链：旧端口→mDNS新端口→5555兜底，0.8秒探活）；亮屏保持30秒常亮",
   "force": false,
-  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.83.apk",
+  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.84.apk",
   "fullMirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.83.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.83/app-full-1.12.83.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.84.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.84/app-full-1.12.84.apk"
   ],
-  "fullMd5": "452e23caa2315d8fc7aec41143374348",
-  "fullSize": 14130193,
-  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.83.apk（需先有该文件）"
+  "fullMd5": "363771819a4c276942e4d90eb8c7a180",
+  "fullSize": 14428407,
+  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.84.apk（需先有该文件）"
 }
