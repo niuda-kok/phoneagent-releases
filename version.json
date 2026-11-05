@@ -1,21 +1,19 @@
 {
-  "versionCode": 202,
-  "versionName": "1.12.84",
-  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.84.apk",
+  "versionCode": 203,
+  "versionName": "1.12.85",
+  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.85.apk",
   "mirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.84.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.84/app-1.12.84.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.85.apk"
   ],
-  "md5": "d2b33478145af9f88da3f73be6bbe216",
-  "size": 14408100,
-  "changelog": "自动补开5555：自举/配对成功后异步 adb tcpip 5555（5分钟节流）；新增 POST /api/adb/tcpip 手动端点；修死认旧端口导致的连接超时（候选链：旧端口→mDNS新端口→5555兜底，0.8秒探活）；亮屏保持30秒常亮",
+  "md5": "681a4e2f3375cca4d3a458a4162c28cc",
+  "size": 14146393,
+  "changelog": "修复自动升级误点『取消安装』（按钮匹配加否定词排除+精确文案优先）；新增『安装器自动点击』开关（App面板可关，默认开，关后弹安装器等人手点）",
   "force": false,
-  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.84.apk",
+  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.85.apk",
   "fullMirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.84.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.84/app-full-1.12.84.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.85.apk"
   ],
-  "fullMd5": "363771819a4c276942e4d90eb8c7a180",
-  "fullSize": 14428407,
-  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.84.apk（需先有该文件）"
+  "fullMd5": "62266d7d39cef4e54d858c56133f9268",
+  "fullSize": 14147821,
+  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.85.apk（需先有该文件）"
 }
