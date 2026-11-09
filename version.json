@@ -1,19 +1,21 @@
 {
-  "versionCode": 203,
-  "versionName": "1.12.85",
-  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.85.apk",
+  "versionCode": 207,
+  "versionName": "1.12.89",
+  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.89.apk",
   "mirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.85.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.89.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.89/app-1.12.89.apk"
   ],
-  "md5": "681a4e2f3375cca4d3a458a4162c28cc",
-  "size": 14146393,
-  "changelog": "修复自动升级误点『取消安装』（按钮匹配加否定词排除+精确文案优先）；新增『安装器自动点击』开关（App面板可关，默认开，关后弹安装器等人手点）",
+  "md5": "b13f772e7a7ecc5db2059b41da4e0225",
+  "size": 14181941,
+  "changelog": "自动升级优先走 agent 静默装（AgentChannel.installUrl，与手动 /api/shell/install 同路径，Pixel 实测 6.7s）；更新通知同一版本 24 小时内只提醒一次；后台分支保留静默失败真实原因，不再被 background_no_ui 覆盖",
   "force": false,
-  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.85.apk",
+  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.89.apk",
   "fullMirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.85.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.89.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.89/app-full-1.12.89.apk"
   ],
-  "fullMd5": "62266d7d39cef4e54d858c56133f9268",
-  "fullSize": 14147821,
-  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.85.apk（需先有该文件）"
+  "fullMd5": "179ea9ae91c215fc7ff2be0966c7b2fd",
+  "fullSize": 14183341,
+  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.89.apk（需先有该文件）"
 }
