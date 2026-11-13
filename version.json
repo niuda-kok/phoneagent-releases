@@ -1,21 +1,21 @@
 {
-  "versionCode": 207,
-  "versionName": "1.12.89",
-  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.89.apk",
+  "versionCode": 208,
+  "versionName": "1.12.90",
+  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.90.apk",
   "mirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.89.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.89/app-1.12.89.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.90.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.90/app-1.12.90.apk"
   ],
-  "md5": "b13f772e7a7ecc5db2059b41da4e0225",
-  "size": 14181941,
-  "changelog": "自动升级优先走 agent 静默装（AgentChannel.installUrl，与手动 /api/shell/install 同路径，Pixel 实测 6.7s）；更新通知同一版本 24 小时内只提醒一次；后台分支保留静默失败真实原因，不再被 background_no_ui 覆盖",
+  "md5": "40f3fa9776551adf9cc4eecd981d72c4",
+  "size": 14184333,
+  "changelog": "1.12.90：更新清单迁到 R2（CloudBase 418 自救）+ 云端脚本版本守卫，修安装器误点「取消安装」",
   "force": false,
-  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.89.apk",
+  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.90.apk",
   "fullMirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.89.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.89/app-full-1.12.89.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.90.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.90/app-full-1.12.90.apk"
   ],
-  "fullMd5": "179ea9ae91c215fc7ff2be0966c7b2fd",
-  "fullSize": 14183341,
-  "note": "APK 主源=R2（出网免费），备用=GitHub Releases；CloudBase 只托管本清单。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.89.apk（需先有该文件）"
+  "fullMd5": "f589b913b18ee2a6fb66655014c17bad",
+  "fullSize": 14185697,
+  "note": "清单主源=R2，备用 CloudBase/GitHub。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.90.apk（需先有该文件）"
 }
