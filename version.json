@@ -1,21 +1,21 @@
 {
-  "versionCode": 208,
-  "versionName": "1.12.90",
-  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.90.apk",
+  "versionCode": 211,
+  "versionName": "1.13.2",
+  "url": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.13.2.apk",
   "mirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.12.90.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.90/app-1.12.90.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-1.13.2.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.13.2/app-1.13.2.apk"
   ],
-  "md5": "40f3fa9776551adf9cc4eecd981d72c4",
-  "size": 14184333,
-  "changelog": "1.12.90：更新清单迁到 R2（CloudBase 418 自救）+ 云端脚本版本守卫，修安装器误点「取消安装」",
+  "md5": "22a1224a05b42ee8ad922c550767689f",
+  "size": 14578320,
+  "changelog": "1.13.2：锁屏 PIN 只存控制端（被控端零存储）；控制台亮屏/远控支持输入 PIN、可选保存到本机；远控先只读查屏幕状态，黑屏/锁屏先提示不预点亮；relay 新增端到端解锁与只读状态端点。",
   "force": false,
-  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.90.apk",
+  "fullUrl": "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.13.2.apk",
   "fullMirrors": [
-    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.12.90.apk",
-    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.12.90/app-full-1.12.90.apk"
+    "https://pub-d8e237cde8fb47949b9243811e8a7c8d.r2.dev/phoneagent/app-full-1.13.2.apk",
+    "https://github.com/niuda-kok/phoneagent-releases/releases/download/v1.13.2/app-full-1.13.2.apk"
   ],
-  "fullMd5": "f589b913b18ee2a6fb66655014c17bad",
-  "fullSize": 14185697,
-  "note": "清单主源=R2，备用 CloudBase/GitHub。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.12.90.apk（需先有该文件）"
+  "fullMd5": "8ca884cc8625a0197c3a7bbce8d7104e",
+  "fullSize": 14581628,
+  "note": "清单主源=R2，备用 CloudBase/GitHub。紧急回退：把 url/mirrors 换成 https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.13.2.apk（需先有该文件）"
 }
